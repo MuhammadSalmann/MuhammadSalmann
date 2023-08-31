@@ -1,6 +1,9 @@
 ![Master Branch](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Salman</h1>
-<h3 align="center">Passionate Computer Science Student | Web & App Developer | Software Engineer</h3>
+
+<p align="center" dir="auto">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=2BF736&center=true&vCenter=true&width=600&lines=WELCOME+TO+MY+PROFILE.+;A+PASSIONATE+COMPUTER+SCIENTIST;WEB+%26+APP+DEVELOPER." alt="Typing SVG" /></a>
+</p>
 
 <p align="center">Greetings! I am a highly motivated student currently pursuing Computer Science at Air University, Islamabad. My journey in the realm of technology is driven by an insatiable thirst for knowledge and a genuine love for learning.</p>
 
