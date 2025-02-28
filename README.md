@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **salmansidd372@gmail.com**
 
-- ⚡ Check my CV: <a href="https://drive.google.com/file/d/1057IvDIlrTQ6NUtFosg1XUOR99QWp1-a/view?usp=sharing"> Click Here </a>
+- ⚡ Check my CV: <a href="[https://drive.google.com/file/d/1057IvDIlrTQ6NUtFosg1XUOR99QWp1-a/view?usp=sharing](https://drive.google.com/file/d/1tl9akOcrSgvdF_3m3D4ZuThifuiZdtwx/view?usp=sharing)"> Click Here </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
